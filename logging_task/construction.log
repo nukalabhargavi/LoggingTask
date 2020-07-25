@@ -1,0 +1,7 @@
+2020-07-25 14:00:24 DEBUG Client:10 - Enter the type of the material(standard/above standard/high standard)?
+standard
+2020-07-25 14:00:28 DEBUG Client:12 - Enter the total area of the house to be constructed?
+234
+2020-07-25 14:00:31 DEBUG Client:14 - Enter the type of automation(not automated/fully automated)
+not automated
+2020-07-25 14:00:36 DEBUG Client:18 - Total House Construction Cost: 280800.0INR
