@@ -1,0 +1,41 @@
+2020-07-25 22:57:24 DEBUG OperationPerform:21 - Enter number of Operation You Want to Perform:
+2020-07-25 22:57:24 DEBUG OperationPerform:22 - 1.AddItem
+2020-07-25 22:57:24 DEBUG OperationPerform:23 - 2.RemoveItem
+2020-07-25 22:57:24 DEBUG OperationPerform:24 - 3.FetchItem
+2020-07-25 22:57:28 DEBUG OperationPerform:8 - Enter the Id Number of the Student
+2020-07-25 22:57:37 DEBUG OperationPerform:10 - Enter the Section Number of the Student
+2020-07-25 22:57:40 DEBUG OperationPerform:12 - Enter the Name of the Student
+2020-07-25 22:57:43 DEBUG OperationPerform:14 - Enter the Branch in which the Student Enrolled
+2020-07-25 22:57:47 DEBUG OperationPerform:45 - Do You want to Continue?(yes/no)
+2020-07-25 22:57:50 DEBUG OperationPerform:21 - Enter number of Operation You Want to Perform:
+2020-07-25 22:57:50 DEBUG OperationPerform:22 - 1.AddItem
+2020-07-25 22:57:50 DEBUG OperationPerform:23 - 2.RemoveItem
+2020-07-25 22:57:50 DEBUG OperationPerform:24 - 3.FetchItem
+2020-07-25 22:57:52 DEBUG OperationPerform:8 - Enter the Index of the Record to be Fetched
+2020-07-25 22:57:54 DEBUG OperationPerform:10 - IdNumber: 3.
+2020-07-25 22:57:54 DEBUG OperationPerform:11 - SectionNumber: 1.
+2020-07-25 22:57:54 DEBUG OperationPerform:12 - Name: Raveena
+2020-07-25 22:57:54 DEBUG OperationPerform:13 - Branch: CSE
+2020-07-25 22:57:54 DEBUG OperationPerform:45 - Do You want to Continue?(yes/no)
+2020-07-25 22:57:59 DEBUG OperationPerform:21 - Enter number of Operation You Want to Perform:
+2020-07-25 22:57:59 DEBUG OperationPerform:22 - 1.AddItem
+2020-07-25 22:57:59 DEBUG OperationPerform:23 - 2.RemoveItem
+2020-07-25 22:57:59 DEBUG OperationPerform:24 - 3.FetchItem
+2020-07-25 22:58:03 DEBUG OperationPerform:7 - Enter the Index of the Record to be Removed
+2020-07-25 22:58:05 DEBUG OperationPerform:45 - Do You want to Continue?(yes/no)
+2020-07-25 22:58:07 DEBUG OperationPerform:21 - Enter number of Operation You Want to Perform:
+2020-07-25 22:58:07 DEBUG OperationPerform:22 - 1.AddItem
+2020-07-25 22:58:07 DEBUG OperationPerform:23 - 2.RemoveItem
+2020-07-25 22:58:07 DEBUG OperationPerform:24 - 3.FetchItem
+2020-07-25 22:58:08 DEBUG OperationPerform:7 - Enter the Index of the Record to be Removed
+2020-07-25 22:58:14 DEBUG OperationPerform:45 - Do You want to Continue?(yes/no)
+2020-07-25 22:58:16 DEBUG OperationPerform:21 - Enter number of Operation You Want to Perform:
+2020-07-25 22:58:16 DEBUG OperationPerform:22 - 1.AddItem
+2020-07-25 22:58:16 DEBUG OperationPerform:23 - 2.RemoveItem
+2020-07-25 22:58:16 DEBUG OperationPerform:24 - 3.FetchItem
+2020-07-25 22:58:18 DEBUG OperationPerform:8 - Enter the Index of the Record to be Fetched
+2020-07-25 22:58:20 DEBUG OperationPerform:10 - IdNumber: 5.
+2020-07-25 22:58:20 DEBUG OperationPerform:11 - SectionNumber: 2.
+2020-07-25 22:58:20 DEBUG OperationPerform:12 - Name: Bonu
+2020-07-25 22:58:20 DEBUG OperationPerform:13 - Branch: CSE
+2020-07-25 22:58:20 DEBUG OperationPerform:45 - Do You want to Continue?(yes/no)
